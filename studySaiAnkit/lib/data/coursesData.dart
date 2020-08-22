@@ -7,7 +7,7 @@ List<Course> courses = [
     courseID: 'F212',
     color: Colors.blueAccent,
     courseTitle: 'Electromagnetic Theory',
-    lectureLink: 'http://meet.google.com/rya-wahz-scc',
+    lectureLink: 'https://meet.google.com/kwm-zarg-zgb',
     tutorialLink: '',
   ),
   Course(
@@ -15,7 +15,7 @@ List<Course> courses = [
     courseCode: 'ECE',
     courseID: 'F214',
     courseTitle: 'Electronic Devices',
-    lectureLink: '',
+    lectureLink: 'meet.google.com/yfw-bego-kkx',
     tutorialLink: '',
   ),
   Course(
@@ -23,14 +23,15 @@ List<Course> courses = [
     courseCode: 'ECE',
     courseID: 'F215',
     courseTitle: 'Digital Design',
-    lectureLink: '',
+    lectureLink:
+        'https://teams.microsoft.com/_#/school/conversations/General?threadId=19:dd3f9f477bb64fbbbfedb303c7d70b01@thread.tacv2&ctx=channel',
     tutorialLink: '',
   ),
   Course(
     color: Colors.pinkAccent,
     courseCode: 'ECE',
     courseID: 'F242',
-    courseTitle: 'Signals and Systems',
+    courseTitle: 'Control Systems',
     lectureLink: '',
     tutorialLink: '',
   ),
@@ -38,8 +39,8 @@ List<Course> courses = [
     color: Colors.redAccent,
     courseCode: 'ECE',
     courseID: 'F243',
-    courseTitle: 'Control Systems',
-    lectureLink: '',
+    courseTitle: 'Signals and Systems',
+    lectureLink: 'https://meet.google.com/fac-kvsa-wgn',
     tutorialLink: '',
   ),
   Course(
@@ -47,7 +48,7 @@ List<Course> courses = [
     courseCode: 'MATH',
     courseID: 'F211',
     courseTitle: 'Mathematics III',
-    lectureLink: '',
+    lectureLink: 'https://meet.google.com/vjc-gwdz-fha',
     tutorialLink: '',
   ),
   Course(
@@ -55,7 +56,7 @@ List<Course> courses = [
     courseCode: 'GS',
     courseID: 'F233',
     courseTitle: 'Public Policy',
-    lectureLink: '',
+    lectureLink: 'http://meet.google.com/qju-msof-dgq',
     tutorialLink: '',
   ),
   Course(
@@ -63,7 +64,7 @@ List<Course> courses = [
     courseCode: 'HSS',
     courseID: 'F334',
     courseTitle: 'Srimad Bhagavad Gita',
-    lectureLink: '',
+    lectureLink: 'https://meet.google.com/wrp-yxye-smo',
     tutorialLink: '',
   ),
 ];
