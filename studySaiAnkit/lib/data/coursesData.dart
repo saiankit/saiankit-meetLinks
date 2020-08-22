@@ -15,7 +15,7 @@ List<Course> courses = [
     courseCode: 'ECE',
     courseID: 'F214',
     courseTitle: 'Electronic Devices',
-    lectureLink: 'meet.google.com/yfw-bego-kkx',
+    lectureLink: 'https://meet.google.com/yfw-bego-kkx',
     tutorialLink: '',
   ),
   Course(
