@@ -5,11 +5,13 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "index.html": "6c35c90909faf9eda77b96708bd0c6bf",
 "/": "467ed6812abf7e87d3acbd3fc8a4ac72",
-"main.dart.js": "95387be595a33eea1c438ef32aad02f4",
+"main.dart.js": "ff267a1d4e955b46525d157a174446c5",
 "favicon.png": "2e267adf456565c4ba761099527ad369",
+"icons/icon-192.png": "b18b4a121dbc16e843efefebe71d5159",
+"icons/icon-512.png": "1e3c691864c0f09d7cef64ba0dd16500",
 "manifest.json": "0b51033df740fda6fa86ebcbd0b3956d",
-"assets/AssetManifest.json": "a9d2b653dbd9990f5963aea324a3468d",
-"assets/NOTICES": "c049a205815b8fd9c4842dbe306a6519",
+"assets/AssetManifest.json": "00fd830f0a18855b9146bc41785a0bb0",
+"assets/NOTICES": "108d0a1640e6b622b04c79e5a1de9f51",
 "assets/FontManifest.json": "01700ba55b08a6141f33e168c4a6c22f",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/packages/flutter_tex/js/katex/index.html": "3108eb0b2bf33f4e7a4e17fd6556e1ae",
@@ -348,7 +350,8 @@ const RESOURCES = {
 "assets/packages/flutter_tex/js/flutter_tex.js": "9402d83f805bfc891b50ffd62c918def",
 "assets/packages/flutter_markdown/assets/logo.png": "67642a0b80f3d50277c44cde8f450e50",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/assets/hello.md": "a9fe3301ac4242550e4354f5c57f73ff"
+"assets/assets/hello.md": "a9fe3301ac4242550e4354f5c57f73ff",
+"assets/assets/yourFile.html": "d66a3f144d269abb03051f4f56d3baae"
 };
 
 // The application shell files that are downloaded before a service worker can
