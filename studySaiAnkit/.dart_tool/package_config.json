@@ -2,12 +2,6 @@
   "configVersion": 2,
   "packages": [
     {
-      "name": "args",
-      "rootUri": "file:///Users/SaiAnkit/My_Dev/flutter/.pub-cache/hosted/pub.dartlang.org/args-1.6.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.3"
-    },
-    {
       "name": "async",
       "rootUri": "file:///Users/SaiAnkit/My_Dev/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.4.1",
       "packageUri": "lib/",
@@ -56,28 +50,10 @@
       "languageVersion": "2.2"
     },
     {
-      "name": "flutter_markdown",
-      "rootUri": "file:///Users/SaiAnkit/My_Dev/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_markdown-0.4.3",
-      "packageUri": "lib/",
-      "languageVersion": "2.5"
-    },
-    {
       "name": "flutter_test",
       "rootUri": "file:///Users/SaiAnkit/My_Dev/flutter/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "2.2"
-    },
-    {
-      "name": "flutter_tex",
-      "rootUri": "file:///Users/SaiAnkit/My_Dev/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_tex-3.6.7+9",
-      "packageUri": "lib/",
-      "languageVersion": "2.0"
-    },
-    {
-      "name": "markdown",
-      "rootUri": "file:///Users/SaiAnkit/My_Dev/flutter/.pub-cache/hosted/pub.dartlang.org/markdown-2.1.8",
-      "packageUri": "lib/",
-      "languageVersion": "2.6"
     },
     {
       "name": "matcher",
@@ -90,12 +66,6 @@
       "rootUri": "file:///Users/SaiAnkit/My_Dev/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.1.8",
       "packageUri": "lib/",
       "languageVersion": "1.12"
-    },
-    {
-      "name": "mime",
-      "rootUri": "file:///Users/SaiAnkit/My_Dev/flutter/.pub-cache/hosted/pub.dartlang.org/mime-0.9.7",
-      "packageUri": "lib/",
-      "languageVersion": "2.0"
     },
     {
       "name": "path",
@@ -158,25 +128,13 @@
       "languageVersion": "2.0"
     },
     {
-      "name": "webview_flutter",
-      "rootUri": "file:///Users/SaiAnkit/My_Dev/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter-0.3.22+1",
-      "packageUri": "lib/",
-      "languageVersion": "2.7"
-    },
-    {
-      "name": "webview_flutter_plus",
-      "rootUri": "file:///Users/SaiAnkit/My_Dev/flutter/.pub-cache/hosted/pub.dartlang.org/webview_flutter_plus-0.1.1+9",
-      "packageUri": "lib/",
-      "languageVersion": "2.7"
-    },
-    {
       "name": "studySaiAnkit",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2020-08-22T13:15:01.860931Z",
+  "generated": "2020-08-22T13:16:43.791051Z",
   "generator": "pub",
   "generatorVersion": "2.9.0-14.1.beta"
 }

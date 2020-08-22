@@ -12,9 +12,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_markdown:
-  flutter_tex: ^3.1.4
-  webview_flutter:
 
 
   cupertino_icons: ^0.1.3
