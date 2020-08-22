@@ -30,7 +30,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.black,
-        title: Text('Sai Ankit Study'),
+        title: Text('Sai Ankit Meet Links'),
         centerTitle: true,
       ),
       body: ListView.builder(
